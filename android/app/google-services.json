@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "260026003419",
+    "firebase_url": "https://krush-43dd7.firebaseio.com",
+    "project_id": "krush-43dd7",
+    "storage_bucket": "krush-43dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260026003419:android:a214b02765961c0fc381fe",
+        "android_client_info": {
+          "package_name": "io.krushin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260026003419-mk0grv3pcgoj9atm1mnp1pte3d2voa6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.krushin.app",
+            "certificate_hash": "ad139f1adb3e199bb56b169c5cc7b9476ed20253"
+          }
+        },
+        {
+          "client_id": "260026003419-jna0gpco0m5530e1jhm2gsigbkel4d07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.krushin.app",
+            "certificate_hash": "1aa234121aee7d98e0e1b501974bcd3d2a367c8e"
+          }
+        },
+        {
+          "client_id": "260026003419-u06edhfrd8b1k8vtruvmhqllle2fsfa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.krushin.app",
+            "certificate_hash": "1e4b7233aa4d49eebc072b2e3dc4ae192022383f"
+          }
+        },
+        {
+          "client_id": "260026003419-cf1a1kns9o2rgcs6f12upo67td0vhesv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.krushin.app",
+            "certificate_hash": "ae69c1b6ded34e1e858abd193535a9b3b9aa75f2"
+          }
+        },
+        {
+          "client_id": "260026003419-o08rafm7euf21h6kpat9p0olfu7sarno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXb4DSavO73f7x35baB3SV-UEeIKduDFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260026003419-o08rafm7euf21h6kpat9p0olfu7sarno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260026003419-4aeffr1dn467lrcbjls62bhtf1jv1d0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.krushin.app",
+                "app_store_id": "1525910913"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
